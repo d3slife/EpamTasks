@@ -1,0 +1,1 @@
+Main-class: com.epam.task1.CalcMachineStart
