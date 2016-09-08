@@ -7,7 +7,7 @@ package com.epam.task1;
  * @author Valiantsin Shamiako
  * @version 1.0
  */
-public final class MathOperations {
+public class MathOperations {
 
     private static double total;
     private static String[] symbols = {"+", "-", "*", "/", "^"};
